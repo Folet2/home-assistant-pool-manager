@@ -199,6 +199,3 @@ If not, rethink the design.
 > Keep the course.
 
 Reliable automation is built from simple and well-defined components.
-> Keep the course.
-
-Reliable automation is built from simple and well-defined components.
